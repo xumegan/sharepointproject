@@ -1,6 +1,6 @@
 import { IData } from "./IData";
 
-export class ClassCustomer {
+export class ClassData {
   public ID: string;
   public Title: string;
   public Description: string;
